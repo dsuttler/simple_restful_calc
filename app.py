@@ -6,7 +6,7 @@ api = Api(app)
 
 """
 This code is purposefully verbose and redundant.
-As my first Flask application and my first time playing 
+This is my first Flask application and my first time playing 
 around with building a restful API.
 """
 
